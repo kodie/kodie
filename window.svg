@@ -1,0 +1,180 @@
+<svg fill="none" width="500px" height="600px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
+  <foreignObject width="500px" height="600px">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .window {
+          background: #c0c0c0;
+          border: 1px solid black;
+          border-color: #dfdfdf #000 #000 #dfdfdf;
+          left: 50%;
+          padding: 3px;
+          position: absolute;
+          top: 50%;
+          transform: translate(-50%, -50%);
+          width: calc(100% - 8px);
+        }
+
+        .window * {
+          font-family: "MS Sans-Serif", Tahoma, sans-serif;
+          -webkit-font-smoothing: none;
+        }
+
+        .window:before {
+          content: "";
+          bottom: 0;
+          border: 1px solid #00ff00;
+          border-color: #fff #808080 #808080 #fff;
+          display: block;
+          left: 0;
+          position: absolute;
+          right: 0;
+          top: 0;
+        }
+
+        .window h2 {
+          background: linear-gradient(to right, #000080, #1084d0);
+          color: #fff;
+          font-size: 12px;
+          line-height: 20px;
+          margin: 0;
+          padding: 0;
+          padding-left: 3px;
+          position: relative;
+          text-align: left;
+        }
+
+        .window .close {
+          background: #c0c0c0;
+          border: 1px solid #00ff00;
+          border-color: #fff #000 #000 #fff;
+          box-sizing: border-box;
+          height: 16px;
+          overflow: hidden;
+          padding-left: 16px;
+          position: absolute;
+          right: 2px;
+          top: 2px;
+          width: 0;
+        }
+
+        .window .close:before {
+          border: 1px solid #00ff00;
+          border-color: #dfdfdf #808080 #808080 #dfdfdf;
+          bottom: 0;
+          content: "";
+          display: block;
+          left: 0;
+          position: absolute;
+          top: 0;
+          right: 0;
+        }
+
+        .window .close:after {
+          background: #ffc0cb;
+          color: #000;
+          content: "×";
+          left: 0;
+          line-height: 0;
+          margin-top: -1px;
+          position: absolute;
+          text-align: center;
+          top: 50%;
+          width: 100%;
+        }
+
+        .window .content {
+          font-size: 14px;
+          padding: 3px;
+          text-align: left;
+        }
+
+        .window .content p {
+          line-height: 20px;
+          margin: 0;
+          padding: 0;
+        }
+
+        .window .content a {
+          color: #1084d0;
+          text-decoration: underline;
+        }
+
+        .window .content div ~ div {
+          margin-top: 10px;
+        }
+
+        .window .content .buttons {
+          text-align: right;
+        }
+
+        .window .content .button {
+          background: #c0c0c0;
+          border: 1px solid #00ff00;
+          border-color: #fff #000 #000 #fff;
+          box-sizing: border-box;
+          min-width: 100px;
+          overflow: hidden;
+          padding: 5px 14px;
+          position: relative;
+          text-align: center;
+        }
+
+        .window .content .button:before {
+          border: 1px solid #00ff00;
+          border-color: transparent #808080 #808080 transparent;
+          bottom: 0;
+          content: "";
+          display: block;
+          left: 0;
+          position: absolute;
+          top: 0;
+          right: 0;
+        }
+
+        .window .content .button span {
+          text-decoration: underline;
+        }
+      </style>
+
+      <div class="window">
+        <h2>Welcome To My GitHub Page <a href="#" class="close">Close</a></h2>
+        <div class="content">
+          <br />
+          <div align="center">
+            <p>&#128075; Hi there, my name is Kodie Grantham.</p>
+          </div>
+          <br />
+
+          <div>
+            <p>I'm the Lead Engineer/Systems Administrator at <a href="https://itsahappymedium.com" target="_new">Happy Medium</a> and am currently residing in Pleasant Hill, Iowa.</p>
+          </div>
+
+          <div>
+            <p>I'm also the father to two badass kids. I'm an enthusiast of music, technology, and anything mechanical. I enjoy riding motorcycles, working in my garage, video games, traveling, concerts/shows/festivals, skateboarding, BMX, movies, anime, food, drinks, and of course, coding.</p>
+          </div>
+
+          <div>
+            <p>I started coding back in 2010 when I was only 10 years old. I would make websites for gaming clubs using Yahoo Geocities which was basically a drag-and-drop website builder, but it also allowed you to modify the code directly which is where I started my tinkering. Eventually I would discover PHP and took off from there.</p>
+          </div>
+
+          <div>
+            <p>I program in a few different languages and use a few different technologies but my favorites and the ones I have the most experience in are JavaScript (Node/React) and PHP. I love open source and developing new tools/frameworks that make the developer life just a little easier.</p>
+          </div>
+
+          <div>
+            <p>So have a look around, check out some of my projects, and feel free to reach out for anything.</p>
+          </div>
+
+          <div>
+            <p>&#128038; <a href="https://twitter.com/kodiewithak">@kodiewithak</a></p>
+            <p>&#128234; <a href="mailto:kodie.grantham@gmail.com">kodie.grantham@gmail.com</a></p>
+          </div>
+
+          <div class="buttons">
+            <button type="button" class="button"><span>O</span>k</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
