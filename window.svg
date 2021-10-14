@@ -1,6 +1,10 @@
 <svg fill="none" width="500px" height="600px" xmlns="http://www.w3.org/2000/svg" data-reactroot="">
   <foreignObject width="500px" height="600px">
     <div xmlns="http://www.w3.org/1999/xhtml">
+      <!--
+      Credits for the base of the CSS go to @AshKyd (https://github.com/AshKyd)
+      and the idea of putting it into an SVG to @sindresorhus (https://github.com/sindresorhus)
+      -->
       <style>
         .window {
           background: #c0c0c0;
