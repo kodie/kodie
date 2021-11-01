@@ -33,7 +33,7 @@ So have a look around, check out some of my projects, and feel free to reach out
 
   * [img-items](https://github.com/kodie/img-items) - Finds individual items inside an image and gets their size/coordinates.
 
-  * [https://github.com/kodie/lyrcper](https://github.com/kodie/lyrcper) - A Twitter bot that posts randomly generated wallpapers with song lyrics.
+  * [lyrcper](https://github.com/kodie/lyrcper) - A Twitter bot that posts randomly generated wallpapers with song lyrics.
 
   * [lyric-paper](https://github.com/kodie/lyric-paper) - A node module that draws a random line of song lyrics onto a random image from Flickr.
 
