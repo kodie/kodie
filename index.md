@@ -1,3 +1,5 @@
+&#128075; Hi there, my name is Kodie Grantham.
+
 I'm the Lead Engineer/Systems Administrator at [Happy Medium](https://itsahappymedium.com) and am currently residing in Pleasant Hill, Iowa.
 
 I'm also the father to two badass kids. I'm an enthusiast of music, technology, and anything mechanical. I enjoy riding motorcycles, working in my garage, video games, traveling, concerts/shows/festivals, skateboarding, BMX, movies, anime, food, drinks, and of course, coding.
