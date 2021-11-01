@@ -31,9 +31,11 @@ So have a look around, check out some of my projects, and feel free to reach out
 
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg" width="20" height="20" /> Spotify: [https://open.spotify.com/user/kodieg](https://open.spotify.com/user/kodieg)
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Lastfm.svg/256px-Lastfm.svg.png" width="20" height="20" /> Last.fm: [https://last.fm/user/kodiewithak](https://last.fm/user/kodiewithak)
+
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" width="20" height="20" /> Steam: [https://steamcommunity.com/id/BattleKode](https://steamcommunity.com/id/BattleKode)
 
-&#127918; Xbox: [https://account.xbox.com/en-us/profile?gamertag=BattleKode](https://account.xbox.com/en-us/profile?gamertag=BattleKode)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Xbox_one_logo.svg/88px-Xbox_one_logo.svg.png" width="20" height="20" /> Xbox: [https://account.xbox.com/en-us/profile?gamertag=BattleKode](https://account.xbox.com/en-us/profile?gamertag=BattleKode)
 
 
 ## Projects
