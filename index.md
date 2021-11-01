@@ -10,11 +10,29 @@ I program in a few different languages and use a few different technologies but 
 
 So have a look around, check out some of my projects, and feel free to reach out for anything.
 
-&#128038; [@kodiewithak](https://twitter.com/kodiewithak)  
 &#128234; [kodie.grantham@gmail.com](mailto:kodie.grantham@gmail.com)
 
 
-## Some of my projects
+## Links
+
+Personal Website: [https://kodieg.com](https://kodieg.com)
+
+GitHub: [https://github.com/kodie](https://github.com/kodie)
+
+LinkedIn: [https://linkedin.com/in/kodie](https://linkedin.com/in/kodie)
+
+Stack Overflow: [https://stackoverflow.com/users/5463842/kodie-grantham](https://stackoverflow.com/users/5463842/kodie-grantham)
+
+Twitter: [https://twitter.com/kodiewithak](https://twitter.com/kodiewithak)
+
+CodePen: [https://codepen.io/kodie](https://codepen.io/kodie)
+
+Steam: [https://steamcommunity.com/id/BattleKode](https://steamcommunity.com/id/BattleKode)
+
+Xbox: [https://account.xbox.com/en-us/profile?gamertag=BattleKode](https://account.xbox.com/en-us/profile?gamertag=BattleKode)
+
+
+## Projects
 
 
 ### Node
