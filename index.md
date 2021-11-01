@@ -1,3 +1,5 @@
+<img src="http://gravatar.com/avatar/ad3295f2801af2a8a996bfaf0c2065c1.png?s=200" style="border-radius:20px;display:block;margin-bottom:2rem;" />
+
 &#128075; Hi there, my name is Kodie Grantham.
 
 I'm the Lead Engineer/Systems Administrator at [Happy Medium](https://itsahappymedium.com) and am currently residing in Pleasant Hill, Iowa.
