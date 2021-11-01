@@ -21,7 +21,7 @@
 
         .window * {
           font-family: "MS Sans-Serif", Tahoma, sans-serif;
-          -webkit-font-smoothing: none;
+          // -webkit-font-smoothing: none; // This looks kind of bad on some browsers
         }
 
         .window:before {
@@ -174,7 +174,7 @@
           </div>
 
           <div>
-            <p>&#128038; <a href="https://twitter.com/kodiewithak">@kodiewithak</a></p>
+            <p>&#128038; <a href="https://twitter.com/kodiewithak" target="_new">@kodiewithak</a></p>
             <p>&#128234; <a href="mailto:kodie.grantham@gmail.com">kodie.grantham@gmail.com</a></p>
           </div>
 
