@@ -17,13 +17,15 @@ So have a look around, check out some of my projects, and feel free to reach out
 
 &#128279; Personal Website: [https://kodieg.com](https://kodieg.com)
 
-<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg" width="20" height="20" /> GitHub: [https://github.com/kodie](https://github.com/kodie)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" width="20" height="20" /> GitHub: [https://github.com/kodie](https://github.com/kodie)
 
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="20" height="20" /> LinkedIn: [https://linkedin.com/in/kodie](https://linkedin.com/in/kodie)
 
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" width="20" height="20" /> Stack Overflow: [https://stackoverflow.com/users/5463842/kodie-grantham](https://stackoverflow.com/users/5463842/kodie-grantham)
 
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/codepen.svg" width="20" height="20" /> CodePen: [https://codepen.io/kodie](https://codepen.io/kodie)
+
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg" width="20" height="20" /> Reddit: [https://reddit.com/u/kodieg](https://reddit.com/kodieg)
 
 <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="20" height="20" /> Twitter: [https://twitter.com/kodiewithak](https://twitter.com/kodiewithak)
 
