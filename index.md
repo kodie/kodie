@@ -15,21 +15,23 @@ So have a look around, check out some of my projects, and feel free to reach out
 
 ## Links
 
-Personal Website: [https://kodieg.com](https://kodieg.com)
+&#128279; Personal Website: [https://kodieg.com](https://kodieg.com)
 
-GitHub: [https://github.com/kodie](https://github.com/kodie)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/reddit.svg" width="20" height="20" /> GitHub: [https://github.com/kodie](https://github.com/kodie)
 
-LinkedIn: [https://linkedin.com/in/kodie](https://linkedin.com/in/kodie)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="20" height="20" /> LinkedIn: [https://linkedin.com/in/kodie](https://linkedin.com/in/kodie)
 
-Stack Overflow: [https://stackoverflow.com/users/5463842/kodie-grantham](https://stackoverflow.com/users/5463842/kodie-grantham)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" width="20" height="20" /> Stack Overflow: [https://stackoverflow.com/users/5463842/kodie-grantham](https://stackoverflow.com/users/5463842/kodie-grantham)
 
-Twitter: [https://twitter.com/kodiewithak](https://twitter.com/kodiewithak)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/codepen.svg" width="20" height="20" /> CodePen: [https://codepen.io/kodie](https://codepen.io/kodie)
 
-CodePen: [https://codepen.io/kodie](https://codepen.io/kodie)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" width="20" height="20" /> Twitter: [https://twitter.com/kodiewithak](https://twitter.com/kodiewithak)
 
-Steam: [https://steamcommunity.com/id/BattleKode](https://steamcommunity.com/id/BattleKode)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/spotify.svg" width="20" height="20" /> Spotify: [https://open.spotify.com/user/kodieg](https://open.spotify.com/user/kodieg)
 
-Xbox: [https://account.xbox.com/en-us/profile?gamertag=BattleKode](https://account.xbox.com/en-us/profile?gamertag=BattleKode)
+<img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/steam.svg" width="20" height="20" /> Steam: [https://steamcommunity.com/id/BattleKode](https://steamcommunity.com/id/BattleKode)
+
+&#127918; Xbox: [https://account.xbox.com/en-us/profile?gamertag=BattleKode](https://account.xbox.com/en-us/profile?gamertag=BattleKode)
 
 
 ## Projects
