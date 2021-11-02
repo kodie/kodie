@@ -1,4 +1,4 @@
-<img src="http://gravatar.com/avatar/ad3295f2801af2a8a996bfaf0c2065c1.png?s=200" style="border-radius:20px;display:block;margin-bottom:2rem;" />
+<img src="https://gravatar.com/avatar/ad3295f2801af2a8a996bfaf0c2065c1.png?s=200" style="border-radius:20px;display:block;margin-bottom:2rem;" />
 
 &#128075; Hi there, my name is Kodie Grantham.
 
